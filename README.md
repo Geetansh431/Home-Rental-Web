@@ -1,1 +1,2 @@
-# TECH STACK: React, Node, Express, MongoDB, Material Ui
+# TECH STACK:
+React, Node, Express, MongoDB, Material Ui, scss
