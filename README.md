@@ -77,7 +77,7 @@ StudyNotion's API follows the REST architectural style, implemented using Node.j
 Clone the project
 
 ```bash
-  git clone https://github.com/Geetansh431/Home-Rental-Web/blob/main/server/routes/listing.js
+  git clone https://github.com/Geetansh431/Home-Rental-Web
 ```
 Go to the backend directory
 
